@@ -27,5 +27,5 @@ This test were done running at the same time in ubuntu, using the following paam
 -e 576
 
 Previous program runned at an average of 7 fps
-This program 42 fps
+The not cilindrical program (conways_game_of_life.py) runs at 42 fps, which is the same for the cilindrical version (conways_game_of_life.py)
 During the test the processor was running at an average speed of 3.8GHz 
